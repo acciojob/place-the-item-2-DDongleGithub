@@ -1,9 +1,10 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
     /* background-color: blue; */
     width: 300px;
     display: flex;
+	justify-content: center;
     flex-wrap: wrap;
 }
 #item1{
